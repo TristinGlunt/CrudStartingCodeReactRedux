@@ -1,0 +1,51 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "The best stream ever!",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "The best stream ever!",
+      "id": 2
+    },
+    {
+      "title": "My Other Stream",
+      "description": "The best stream ever!",
+      "id": 3
+    },
+    {
+      "title": "My stream",
+      "description": "best stream ever",
+      "id": 4
+    },
+    {
+      "title": "My stream 2",
+      "description": "best stream ever love it!",
+      "id": 5
+    },
+    {
+      "title": "I created stream",
+      "description": "user id stream",
+      "id": 6
+    },
+    {
+      "title": "Doggy Dog World",
+      "description": "the best stream!",
+      "userId": "115646149753485489144",
+      "id": 8
+    },
+    {
+      "title": "Testing Nav",
+      "description": "Good bye",
+      "userId": "115646149753485489144",
+      "id": 9
+    },
+    {
+      "title": "Stream Reuse",
+      "description": "refactored stream forms!",
+      "id": 10
+    }
+  ]
+}
